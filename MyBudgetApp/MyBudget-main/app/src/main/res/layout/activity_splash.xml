@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#122049"
+    tools:context=".SplashScreen">
+
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"/>
+
+<!--    #0e2744-->
+<!--    #286181-->
+<!--    #4b9bc6-->
+<!--    #5bb3e6-->
+<!--    #535054-->
+<!--    #747270-->
+
+<!--   biege:  #F5F5DC-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

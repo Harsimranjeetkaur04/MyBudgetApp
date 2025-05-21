@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration file (SDK path, etc.)
+local.properties
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# macOS/Linux/Windows junk
+.DS_Store
+Thumbs.db
+
+# Keystores
+*.jks
+*.keystore
